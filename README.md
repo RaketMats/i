@@ -7,15 +7,6 @@ We assume that the way to develop this site, it need to be addressed the same as
 
 We also assume that the vantage point to address this is as a collective of practioners establishing a design situation with a culture of learning.  
 
-## Current status
-*It is impossible for a customer to understand and specify what they want before testing a version of the software*(Brooks 2010). What this implies is that it is necessary to develop digital products in co-operation with customers and that the designer role must have control of the entire chain from needs and purpose to design, building the product and a place to test together with customers. 
-This is applicable both for the methods and tools we try to establish here at Sunsling and users using them and applying at their own work. This also involves adapting since every design situation, i.e. development of digital products, is unique, in regards of the problem at hand, team and social structures, business domain, type of product and technology amongst other aspects.
-So, at Sunsling we now have established a design situation with insights and suggested concepts and products in varying state of readiness. But, how to establish a situation together with users, addressing all different aspects as described above is ongoing and focus for the continued work. This also involves design management, what to focus on, how to scope and limit work to reach result. This is the state of the work right now and is to be continued.
-
-## Disclaimers  
-About repo name, it can be an acronym for 'Some UNiversal kNowledge System Learning In General', but it is kind of a stupid name. Maybe just 'dDPD/dAD' meaning 'Digital Product Development rate of change over Architecture & Design', i.e. the mathematical concept of derivatives. Or 'dpd' for 'digital product development'. Or 'dipol' for 'digital product development learning'(yes, the acronym is wrong but it sounds better)  
-About the mix of english and swedish. The work here primarily aimed for a Swedish audience, but sometimes it is easier to think in English, terminology, concepts et al.  
-
 ![A nice space](images/sas_copenhagen.jpg)
 
 ## Brief
@@ -32,7 +23,13 @@ Vi har provat många olika sätt och metodiker och ser att många är åt rätt 
 Vi tror de metodiker som finns i grunden är bra och fungerar men det behövs förståelse, anpassning och att varje situation är unik men att det går att hitta gemensamma nämnare är vad vi tror, sätt och mindre anpassningar som gör att det går att få helheten att fungera. 
 Detta tror vi behöver utforskas, det är en komplex situation och kontinuerliga experiment på ett kontrollerat sätt. Därför tror vi att det går att bygga en designsituation som erbjuder detta och vi är inspirerade av den utveckling som länge skett inom systemutveckling med korta loopar och experiment och många olika team och personer som bygger på varandras erfarenheter och vi tror det går att tillämpa på design, arkitektur, agila sätt.
 Detta är vad vi vill etablera här.
-### Så hur fungerar det.
+
+## Current status
+*It is impossible for a customer to understand and specify what they want before testing a version of the software*(Brooks 2010). What this implies is that it is necessary to develop digital products in co-operation with customers and that the designer role must have control of the entire chain from needs and purpose to design, building the product and a place to test together with customers. 
+This is applicable both for the methods and tools we try to establish here at Sunsling and users using them and applying at their own work. This also involves adapting since every design situation, i.e. development of digital products, is unique, in regards of the problem at hand, team and social structures, business domain, type of product and technology amongst other aspects.
+So, at Sunsling we now have established a design situation with insights and suggested concepts and products in varying state of readiness. But, how to establish a situation together with users, addressing all different aspects as described above is ongoing and focus for the continued work. This also involves design management, what to focus on, how to scope and limit work to reach result. This is the state of the work right now and is to be continued.
+
+## Så hur fungerar det.
 - Vi utgår från premissen som står här i readme.md. 
 - Vi börjar sedan arbeta genom att beksriva i ’design.log.md’ som både är en enkel backlog över olika initiativ och en log över hur arbetet fortskrider.
 - Det vi tar fram är av olika typ, metodiker, verktyg, mallar eller en kombination av flera. Vi kallar dessa med ett gemensamt begrepp för 'Patterns' för att ansluta till den rörelse inom software engineering som etablerats sedan länge.
@@ -128,3 +125,7 @@ Jacobson I et al(1999): __The Unified Software Development Process__, Addison-We
 # License
 Content is licensed under CC-BY-SA-4.0  
 Software (future) license is tbd
+
+## About name of this repo  
+About repo name, it can be an acronym for 'Some UNiversal kNowledge System Learning In General', but it is kind of a stupid name. Maybe just 'dDPD/dAD' meaning 'Digital Product Development rate of change over Architecture & Design', i.e. the mathematical concept of derivatives. Or 'dpd' for 'digital product development'. Or 'dipol' for 'digital product development learning'(yes, the acronym is wrong but it sounds better)  
+About the mix of english and swedish. The work here primarily aimed for a Swedish audience, but sometimes it is easier to think in English, terminology, concepts et al.  
