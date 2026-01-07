@@ -101,16 +101,17 @@ Vi tror att det handlar om att få metodiker använda. Det finns många olika br
 Detta har därför ett stort inslag av tillämpad arkitektur, design, systemteori, organisationskunskap, software engineering.
 
 # References
-References  
 Adams, J(2019): __Conceptual Blockbusting__, Basic Books; 5th edition  
 Aurelius(2025): __aureliuslab.com__, Aureliuslab LLC  
-Brooks(19nn) __The Mythical Man Month__, Addison-Wesley; 2nd edition  
+Brooks(1995) __The Mythical Man Month__, Addison-Wesley; 2nd edition  
 Brooks(2010) __The Design of Design__, Addison Wesley
-Coplien J, Björnvig G(2010): __Lean Architecture__, Wiley  
+Coplien J, Björnvig G(2010): __Lean Architecture__, Wiley
+Cross(2011): __Design Thinking__, Bloomsbury Academic  
 Guenther M, Goebl W(2023): __Edgy__, http://enterprise.design
 Goebl W, Guenther M, Klyver A, Papegaaij B(2020): __Enterprise Design Patterns__, Intersection Group  
 Guenther M(2013): __Intersection__, Elsevier  
-Kromatics (20nn): __The Real Startup Book, www.kromatic.com/innovation-resources
+Kromatics (20nn): __The Real Startup Book__, www.kromatic.com/innovation-resources
+Lohmann Stephensen(2018): __Kreativitet__, Aarhus Universitet
 Nelson H and Stolterman E(2014): __Design Way__, MIT Press; 2nd edition  
 Newman Damien, (2025): __the Design Squiggle__, www.thedesignsquiggle.com  
 Padron(2015): __Arkitekturell Förmåga__, Iasa Sverige  
