@@ -105,6 +105,7 @@ Adams, J(2019): __Conceptual Blockbusting__, Basic Books; 5th edition
 Aurelius(2025): __aureliuslab.com__, Aureliuslab LLC  
 Brooks(1995) __The Mythical Man Month__, Addison-Wesley; 2nd edition  
 Brooks(2010) __The Design of Design__, Addison Wesley
+Cleese(2022) __Creativity, a short and cheerful guide__, Penguin  
 Coplien J, Björnvig G(2010): __Lean Architecture__, Wiley
 Cross(2011): __Design Thinking__, Bloomsbury Academic  
 Guenther M, Goebl W(2023): __Edgy__, http://enterprise.design
