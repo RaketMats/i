@@ -110,7 +110,7 @@ Cross(2011): __Design Thinking__, Bloomsbury Academic
 Guenther M, Goebl W(2023): __Edgy__, http://enterprise.design
 Goebl W, Guenther M, Klyver A, Papegaaij B(2020): __Enterprise Design Patterns__, Intersection Group  
 Guenther M(2013): __Intersection__, Elsevier  
-Kromatics (20nn): __The Real Startup Book__, www.kromatic.com/innovation-resources
+Kromatics (20nn): __The Real Startup Book__, www.kromatic.com/innovation-resources  
 Lohmann Stephensen(2018): __Kreativitet__, Aarhus Universitet
 Nelson H and Stolterman E(2014): __Design Way__, MIT Press; 2nd edition  
 Newman Damien, (2025): __the Design Squiggle__, www.thedesignsquiggle.com  
