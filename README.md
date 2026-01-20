@@ -25,6 +25,7 @@ Detta tror vi behöver utforskas, det är en komplex situation och kontinuerliga
 Detta är vad vi vill etablera här.
 
 ## Current status
+
 *It is impossible for a customer to understand and specify what they want before testing a version of the software*(Brooks 2010). What this implies is that it is necessary to develop digital products in co-operation with customers and that the designer role must have control of the entire chain from needs and purpose to design, building the product and a place to test together with customers. 
 This is applicable both for the methods and tools we try to establish here at Sunsling and users using them and applying at their own work. This also involves adapting since every design situation, i.e. development of digital products, is unique, in regards of the problem at hand, team and social structures, business domain, type of product and technology amongst other aspects.
 So, at Sunsling we now have established a design situation with insights and suggested concepts and products in varying state of readiness. But, how to establish a situation together with users, addressing all different aspects as described above is ongoing and focus for the continued work. This also involves design management, what to focus on, how to scope and limit work to reach result. This is the state of the work right now and is to be continued.
@@ -44,8 +45,8 @@ So, at Sunsling we now have established a design situation with insights and sug
 (tbd, illustrera m Mermaid-graph)
 - Readme, denna fil
 - design.log, backlog och progress kring arbete
-- /Patterns_Type_A, B osv - Här publiceras olika patterns
-- /Products - Här finns mer färdiga produkter att använda.
+- /Patterns_Type_A, B osv - Här publiceras olika patterns. Det finns nu ett antal olika, i varierande grad av färdighetsstatus.
+- /Products - Här finns mer färdiga produkter att använda. Det finns en produkt i ett första utkast, kring hur man fångar behov hos kunder.
 - /Research - Bakgrundsmaterial
 - Övriga kataloger är till för olika administrativa artefakter
 
