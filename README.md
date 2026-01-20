@@ -128,7 +128,7 @@ Jacobson I et al(1999): __The Unified Software Development Process__, Addison-We
 
 # License
 Content is licensed under CC-BY-SA-4.0  
-Software (future) license is tbd
+Software (future) license is tbd.
 
 ## About name of this repo  
 About repo name, it can be an acronym for 'Some UNiversal kNowledge System Learning In General', but it is kind of a stupid name. Maybe just 'dDPD/dAD' meaning 'Digital Product Development rate of change over Architecture & Design', i.e. the mathematical concept of derivatives. Or 'dpd' for 'digital product development'. Or 'dipol' for 'digital product development learning'(yes, the acronym is wrong but it sounds better)  
