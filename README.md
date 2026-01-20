@@ -108,14 +108,16 @@ Brooks(2010) __The Design of Design__, Addison Wesley
 Cleese(2022) __Creativity, a short and cheerful guide__, Penguin  
 Coplien J, Björnvig G(2010): __Lean Architecture__, Wiley
 Cross(2011): __Design Thinking__, Bloomsbury Academic  
+Gabriel P(1986): __So__, Charisma Records  
 Guenther M, Goebl W(2023): __Edgy__, http://enterprise.design
 Goebl W, Guenther M, Klyver A, Papegaaij B(2020): __Enterprise Design Patterns__, Intersection Group  
 Guenther M(2013): __Intersection__, Elsevier  
 Kromatics (20nn): __The Real Startup Book__, www.kromatic.com/innovation-resources  
 Lohmann Stephensen(2018): __Kreativitet__, Aarhus Universitet
-Nelson H and Stolterman E(2014): __Design Way__, MIT Press; 2nd edition  
+Nelson H and Stolterman E(2014): __The Design Way__, MIT Press; 2nd edition  
 Newman Damien, (2025): __the Design Squiggle__, www.thedesignsquiggle.com  
 Padron(2015): __Arkitekturell Förmåga__, Iasa Sverige  
+Sayers D(2004): __Mind of the maker__, Harper Collins  
 Stolterman E and Obrenovic Z(2016): __Design Instability__, Leanpub  
 Sundblad(2015): __Sundblad Framework och Arkitektur__, www.certifiedsoftwarearchitect.com  
 Telier A(2011): __Design Things__, MIT Press  
