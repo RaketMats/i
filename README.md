@@ -6,15 +6,13 @@ This is not primarily a collection of tools. We assume that the way to develop t
 Every design situation is unique, specific for organisation, domain, team, scale and what is produced is not ready made but a set of generic patterns and a conceptual engine making them work in the specific situation.  
 We also assume that the vantage point to address this is as a shared learning from experience by you who want to use and thus we as a collective of practitioners become more proficient in a culture of learning.  
 
-We also assume that the vantage point to address this is as a collective of practioners establishing a design situation with a culture of learning.  
-
 # Brief
 There are no methodology or any tool that solves digital product development fully. It is always instead a collection of different ways, adapted to the situation and often what succeeds, and maybe gets published in a book or as a product, worked in a specific situation, hard to replicate. Instead we believe that digital product development need to be addressed through start with establishing how to learn, about what to design but also how to design, the specific product and for the specific situation.  
 We believe that design is about helping users discover what they really want and need. That this can be done, in the end, only by learning from users using the product (Brooks 2010) and that design is not done until the product is used (Sayers 2004).  
 We also believe that a stepwise approach with problem, need, design etc. is not really how designers work and that it instead is a continous movement between problem, need, design all the way to the final product. Also (Brooks 2010).  Our approach to this is what we call 'the Indigo Equation' which is about positioning, reframing and judgement in a managed way.  
 We also believe that understanding and stating the problem often is neglected and that this particular positioning and framing is equally important to all other, including using the product.  
 We also beleive that competencies, Architecture, UX/Service Design, Agile and System Development, need to be broad and setup to work well together and all our patterns and tools are a mix from many different sources.  
-We also believe that the design situation shall be clearly separated from the project that runs it. Our pattern for this is 'The Plastic Box Design Situation' which is heavliy influenced by (Wikberg et al 2021).
+We also believe that the design situation shall be clearly separated from the project that runs it. Our pattern for this is 'The Plastic Box Design Situation' which is heavliy influenced by (Wikberg et al 2021).  
 We also believe that people and how they work is equally important as all other parts in the design situation, what we address as 'PeopleWorks'.  
 
 
@@ -22,8 +20,8 @@ We also believe that people and how they work is equally important as all other 
 The purpose is to establish a design situation that makes it possible to discover and explore what architecture, enterprise design, software engineering and agile methods in the broad sense can help out with within digital product development.  
 The purpose is to build practical tools. For this, a workshop where these tools can be built is needed and that is what we try to accomplish here. 
 We aim to be a collective of practitioners, thus some concepts and products adress specific domains, such as information governance.
-We also aim to be a culture of learning. Concepts presented here might thereforer be research in varying states of sense making but useful for others who want to participate or explore in there own situation. 
-We are inspired by, 'Enterprise Design', since this is the most broad concept so far. The Agile movement, Design movement including Product Design and the digital material knowledge in the form of Software Engineering. All in their broadest concept of mindset, methods, tools building skills. 
+We also aim to be a culture of learning. Concepts presented here might therefore be research in varying states of sense making but useful for others who want to participate or explore in there own situation. 
+We are inspired by, 'Enterprise Design',Guenther M, Goebl W(2023), since this is the most broad concept so far regarding how digital products are developed. The Agile movement, Design movement including Product Design and the digital material knowledge in the form of Software Engineering. All in their broadest concept of mindset, methods, tools - building skills. 
 We are also inspired by 'Lean Startup' and 'The Real Startup Book'(Kromatics 20nn) and the concepts about validated learning form of insights, hypothesis and experiments.
 
 
@@ -50,7 +48,7 @@ Patterns are organised after the following types:
 
 # Current status
 We currently have established this site, this repo and the basic mechanisms for learning, establishing a learning engine which is a set of patterns together with the descriptions stated here. 
-We have also addressed a specific need, 'Working with needs and requirements from customers', as a _Product 100. 
+We have also addressed a specific need, 'Working with needs and requirements from customers', as a _Product 100. There is also a _Product 150 which is more of a prototype, implementing the design situation way of working.
 Much of this work is preliminary, not really making sense without some effort. But we believe in rapid updates and publish over polished and finished.  
 
 # Contact information
@@ -65,11 +63,11 @@ Cleese(2022) __Creativity, a short and cheerful guide__, Penguin
 Coplien J, Björnvig G(2010): __Lean Architecture__, Wiley
 Cross(2011): __Design Thinking__, Bloomsbury Academic  
 Gabriel P(1986): __So__, Charisma Records  
-Guenther M, Goebl W(2023): __Edgy__, http://enterprise.design
+Guenther M, Goebl W(2023): __Edgy__, http://enterprise.design  
 Goebl W, Guenther M, Klyver A, Papegaaij B(2020): __Enterprise Design Patterns__, Intersection Group  
 Guenther M(2013): __Intersection__, Elsevier  
 Kromatics (20nn): __The Real Startup Book__, www.kromatic.com/innovation-resources  
-Lohmann Stephensen(2018): __Kreativitet__, Aarhus Universitet
+Lohmann Stephensen(2018): __Kreativitet__, Aarhus Universitet  
 Nelson H and Stolterman E(2014): __The Design Way__, MIT Press; 2nd edition  
 Newman Damien, (2025): __the Design Squiggle__, www.thedesignsquiggle.com  
 Padron(2015): __Arkitekturell Förmåga__, Iasa Sverige  
