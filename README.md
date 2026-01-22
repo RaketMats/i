@@ -49,6 +49,7 @@ Patterns are organised after the following types:
 # Current status
 We currently have established this site, this repo and the basic mechanisms for learning, establishing a learning engine which is a set of patterns together with the descriptions stated here. 
 We have also addressed a specific need, 'Working with needs and requirements from customers', as a _Product 100. There is also a _Product 150 which is more of a prototype, implementing the design situation way of working.
+Work has started and a first brief is published of the fundamental product that drives work, _Product 200.
 Much of this work is preliminary, not really making sense without some effort. But we believe in rapid updates and publish over polished and finished.  
 
 # Contact information
