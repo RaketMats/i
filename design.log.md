@@ -1,6 +1,8 @@
 # Initiativ som pågår
 Detta är ett pågående arbete och därmed är vad som nu finns här, ett kontinuerligt växande material i omfång och i förståelse och därmed utformning, beskrivning.  
 
+Testing link [Back](https://github.com/RaketMats/Sunsling/blob/main/README.md)
+
 ## Story ID_251213-A
 Fortsättning på **_130_ABCDesEntOrgSociety** Detta är ett praktiskt mönster, det är en metodik, det behöver göras arbetsbart i en första version. Det är fundamentalt och användbart i både behovsfångst, design av system, beskrivning t.ex i olika format som Stadsplaner. Modellen behöver förbättras, beskriv hur det är uppbyggt, hur det modellerar användande och hur de modellerar design/software engineering. Samt att man kan plockat bort valda delar, eller tvärtom stärka t.ex Society om det är vad som behöver förtydligas. Hur detta anknyter till **_101** som ännu inte finns.
 

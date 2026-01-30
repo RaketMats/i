@@ -6,6 +6,8 @@ This is not primarily a collection of tools. We assume that the way to develop t
 Every design situation is unique, specific for organisation, domain, team, scale and what is produced is not ready made but a set of generic patterns and a conceptual engine making them work in the specific situation.  
 We also assume that the vantage point to address this is as a shared learning from experience by you who want to use and thus we as a collective of practitioners become more proficient in a culture of learning.  
 
+Testing link [design.log](https://github.com/RaketMats/Sunsling/blob/main/design.log.md)
+
 # Brief
 There are no methodology or any tool that solves digital product development fully. It is always instead a collection of different ways, adapted to the situation and often what succeeds, and maybe gets published in a book or as a product, worked in a specific situation, hard to replicate. Instead we believe that digital product development need to be addressed through start with establishing how to learn, about what to design but also how to design, the specific product and for the specific situation.  
 We believe that design is about helping users discover what they really want and need. That this can be done, in the end, only by learning from users using the product (Brooks 2010) and that design is not done until the product is used (Sayers 2004).  
