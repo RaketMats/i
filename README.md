@@ -6,8 +6,6 @@ This is not primarily a collection of tools. We assume that the way to develop t
 Every design situation is unique, specific for organisation, domain, team, scale and what is produced is not ready made but a set of generic patterns and a conceptual engine making them work in the specific situation.  
 We also assume that the vantage point to address this is as a shared learning from experience by you who want to use and thus we as a collective of practitioners become more proficient in a culture of learning.  
 
-Testing link [design.log](https://github.com/RaketMats/Sunsling/blob/main/design.log.md)
-
 # Brief
 There are no methodology or any tool that solves digital product development fully. It is always instead a collection of different ways, adapted to the situation and often what succeeds, and maybe gets published in a book or as a product, worked in a specific situation, hard to replicate. Instead we believe that digital product development need to be addressed through start with establishing how to learn, about what to design but also how to design, the specific product and for the specific situation.  
 We believe that design is about helping users discover what they really want and need. That this can be done, in the end, only by learning from users using the product (Brooks 2010) and that design is not done until the product is used (Sayers 2004).  
@@ -29,30 +27,17 @@ We are also inspired by 'Lean Startup' and 'The Real Startup Book'(Kromatics 20n
 
 # So how does it work
 We keep these statements and brief as a problem statement, guiding the work.  
-The file 'design.log.md' is a log of inititiatives, current proritisation and activities, we try to keep updated.
-What we develop are then methods, tools, templates built upon different mindsets and other methodologies and tools, but according to the premise and brief above. We call these 'Patterns', following the patterns-movement within the software engineering industry.
-We publish continously and these patterns are therefore in various state of completeness from the assumption that learning is about getting things out into reality more than have it polished and ready.
-Patterns are organised after the following types:  
-- Type A Practitioners. Architects, Service Designers, Agile Coaches, Lead Developers and similar roles. Anyone that can start working with more conceptual patterns, recognise where they comes from, can judge purpose, what works and what need to be done to get them to work. Challenge here is to methods and patterns often of theoretical nature and with specific scope to become practical in a certain situation, scale and technical circumstances.  
-- Type B. Other adjoining roles. Architecture and design always need to address other roles, such as project leaders, domain expertes, stakeholders, sponsors and management. The basic pattern to identify this aspect is what we call 'The Blue Sector'. This is about presenting, getting the design conversation to work, participate in decision making, risk management, business decisions. it is also about being transparent so that the complexity, domain specific languages do not become a hindrance. It can be patterns about simplification, ways of working, instruktions, templates, gamification.  
-- Type C. These are patterns for businesses, organisations and teams that themselves want to use tools to build skills, but do not need to understand much or anything about underlying mindsets or methods. These are the more ready made tools, leading to result but which must become more shallow, not that effective because of simplifications done. It is much about pedagogical approach, finding mechanisms that work. Our hypothesis here, in its very early stages, are to be inspired from board games and the idea about a kind of simple sentences, called 'Aphothegmatas', from ancient Christian and Greek philosophy.  
-- Type D. Domain specifics. All the above might need to be adapted to specific domains, industry, retail, public sector and so on. It might be about language. It might be possible to instead find a Type A, B, C 'Blue Sector'-pattern that replaces the need for this. 
-- Products. There are also more easy or ready to use versions of the Patterns which we call 'Products'. The idea here is to combine, add examples, or just put more effort into so that they beomce easier to get started with. The idea is also to focus on a specific user need, more than generic problems. The Patterns are also easier to write and publish since they can be quite theoretical and with narrow scope. We need to try this idea and see how it works, what users want.  
-- To get involved, reading, trying out, sharing and learning togehter, see contact information below.
+The file 'design.log.md' is a log of inititiatives, current prioritisation and activities.
+Work done is to be in the form of product discovery.
+Then to publish results from this discovery, for any one to use.
 
 # Organisation of this repo
 - Readme, this file
-- design.log, backlog and progress
-- /Patterns_Type_A, B osv - The different patterns. In various state of completeness.
-- /Products - The more ready mayde and specific kind of tools. 
+- design.log - Backlog and progress
+- /Patterns_Type_A - What we assume will be workable result, products and deliverables.
+- /Products - What we assume will be more vertical workable result 
 - /Research - Background material.
 - Other catalogues are for different administrative purposes.
-
-# Current status
-We currently have established this site, this repo and the basic mechanisms for learning, establishing a learning engine which is a set of patterns together with the descriptions stated here. 
-We have also addressed a specific need, 'Working with needs and requirements from customers', as a _Product 100. There is also a _Product 150 which is more of a prototype, implementing the design situation way of working.
-Work has started and a first brief is published of the fundamental product that drives work, _Product 200.
-Much of this work is preliminary, not really making sense without some effort. But we believe in rapid updates and publish over polished and finished.  
 
 # Contact information
 Linked In, connect and send message to www.linkedin.com/in/matsandreasen/  
