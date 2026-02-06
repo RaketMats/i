@@ -9,10 +9,10 @@ We also assume that the vantage point to address this is as a shared learning fr
 # Brief
 There are no methodology or any tool that solves digital product development fully. It is always instead a collection of different ways, adapted to the situation and often what succeeds, and maybe gets published in a book or as a product, worked in a specific situation, hard to replicate. Instead we believe that digital product development need to be addressed through start with establishing how to learn, about what to design but also how to design, the specific product and for the specific situation.  
 We believe that design is about helping users discover what they really want and need. That this can be done, in the end, only by learning from users using the product (Brooks 2010) and that design is not done until the product is used (Sayers 2004).  
-We also believe that a stepwise approach with problem, need, design etc. is not really how designers work and that it instead is a continous movement between problem, need, design all the way to the final product. Also (Brooks 2010).  Our approach to this is what we call 'the Indigo Equation' which is about positioning, reframing and judgement in a managed way.  
+We also believe that a stepwise approach with problem, need, design etc. is not really how designers work and that it instead is a continous movement between problem, need, design all the way to the final product. Also (Brooks 2010).    
 We also believe that understanding and stating the problem often is neglected and that this particular positioning and framing is equally important to all other, including using the product.  
 We also beleive that competencies, Architecture, UX/Service Design, Agile and System Development, need to be broad and setup to work well together and all our patterns and tools are a mix from many different sources.  
-We also believe that the design situation shall be clearly separated from the project that runs it. Our pattern for this is 'The Plastic Box Design Situation' which is heavliy influenced by (Wikberg et al 2021).  
+We also believe that the design situation shall be clearly separated from the project that runs it. A good pattern for this is probably (Wikberg et al 2021).  
 We also believe that people and how they work is equally important as all other parts in the design situation, what we address as 'PeopleWorks'.  
 
 
