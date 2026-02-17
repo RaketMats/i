@@ -52,6 +52,7 @@ Coplien J, Björnvig G(2010): __Lean Architecture__, Wiley
 Cross(2011): __Design Thinking__, Bloomsbury Academic  
 Gabriel P(1986): __So__, Charisma Records  
 Guenther M, Goebl W(2023): __Edgy__, http://enterprise.design  
+Guenter M, Goebl W(2012): __Intersection Group, http://intersection.group  
 Goebl W, Guenther M, Klyver A, Papegaaij B(2020): __Enterprise Design Patterns__, Intersection Group  
 Guenther M(2013): __Intersection__, Elsevier  
 Kromatics (20nn): __The Real Startup Book__, www.kromatic.com/innovation-resources  
