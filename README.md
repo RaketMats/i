@@ -6,7 +6,7 @@ This is not primarily a collection of tools. We assume that the way to develop t
 Every design situation is unique, specific for organisation, domain, team, scale and what is produced is not ready made but a set of generic patterns and a conceptual engine making them work in the specific situation.  
 We also assume that the vantage point to address this is as a shared learning from experience by you who want to use and thus we as a collective of practitioners become more proficient in a culture of learning.  
 
-# The Descriptoins and Tools
+# The Descriptions and Tools
 [Start here](ds/establish_design_situation.md)
 
 # Brief

@@ -1,5 +1,7 @@
-# About
-This is the second part, complementing the design.log
+# The learning loop
+This is the second part:
+- continues when problems are defined
+- continues when there is a design place where problems can be discussed and work prioritised
 
 # The learning loop
 This is the main engine for work:

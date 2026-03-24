@@ -1,4 +1,4 @@
-# About
+# Defining problems
 Problems must be identified, clearly present through descriptions, a Post-It, a model or sketch.
 - Problems must be defined. 
 - A problem definition is very seldom, as is often the case, a one-liner, instead it needs room and space, in text, models or other ways, often a combination.
