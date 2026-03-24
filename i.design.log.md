@@ -7,6 +7,12 @@ There is also a complementary view which is also useful for design work, in term
 The file in this case will be called 'i.design.spaces.drawio'
 
 # Log
+## 260324
+Started another try.
+- Directory 'ds' stands for 'design situation'. The hypothesis is to create a structure with content that guides design way of working. It contains both a structure to navigate, small descriptive tools in the form of text, 'the Analogerna', 'Apopthegmatas', templates, single page applications. It can be cloned and used for work. Note, it is not aimed to be a repo for design work, instead it is meant as a tool, to guide and navigate the design situation.
+
+The important is to separate what a design situation and design work is, then show examples, templates and tools on how to do it.
+
 ## 260322
 - Find a way to do 'Avbildning', using Edgy and ABCDesEnt
 - Fins a way to build the 'Reality', products, as mockups, prototypes, real products. Especially find a way to use OOP with abstracts etc. on a higher level that can directly implement the 'enterprise design' OOP level.
