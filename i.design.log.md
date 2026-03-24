@@ -4,7 +4,7 @@ Design work must be governed in another way than project work. Instead of buildi
 
 ## Graphical view
 There is also a complementary view which is also useful for design work, in terms of 'spaces' of work, but this is not yet in place for this project.
-The file in this case will be called 'sunsling.design.spaces.drawio'
+The file in this case will be called 'i.design.spaces.drawio'
 
 # Log
 ## 260322
@@ -14,4 +14,6 @@ The file in this case will be called 'sunsling.design.spaces.drawio'
 - Find a way to 'User Judgement', how can they judge and crit what is done in 'Avbildning' and in 'Reality'. Some kind of language, concept leve.
 - Then, also try real hardware:
   - Using NodeMCU/Raspberry Pico and MicroPython, on Linux platforms, using rshell or some other tools. or using NodeMCU/Raspberry Pico and bare metal c++ which makes it possible to model abstracts etc. This shall be used for experimenting whether a 'Groovebox' type of tool for driving design work is possible. 
-  
+
+##260206 Insight that nothing so far produced really did work, or was workable, understandable. So, more or less everything teared down to prepare place for another iteration.
+
