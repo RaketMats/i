@@ -1,0 +1,4 @@
+# About
+_todo_ This need to be more clearly defined and described.  
+But, this is about the learning, discovery way of working. Project management is normally done by identifying tasks, organising them in some kind of order, estimate time. But design work can not be done that way. Instead 'aims' and 'directions' are taken from 'judgement'. Therefore this kind of work must be done in another fashion.  
+A suggested way is closely related to the form 'design.log' which have two main parts, the problem space and the log. In the log is where the main part of work is done. There, everything done is written down, not sorted or analysed, just written down. Then, continously the logs are revisited and over time, the important things rise to attention and are generating new things to work on, building up understanding and solutions in the problem space.
