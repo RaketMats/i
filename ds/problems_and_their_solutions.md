@@ -12,6 +12,6 @@ Somewhere along all these lines we often get lost. Even with rather small projec
 But, most of all, we need to think the other way around. Always try to build. Don't start with understanding the problem because you never will. Start building a solution, because you will eventually anyway. You will almost instantly run into the problem, and then you can start understanding it. This might sound completely insane, but it is not if a crucial activity is in place - the reflective conversation.
 **N.B.** The solution shall be seen as a gravity well. Work shall gravitate towards the solution space, and only slowly drift away towards the problem space. The graphics below is therefore not entirely true.  
 
-Solution Space ---(build--->) Problem Space
-         \                     /
-         [Reflective Conversation](the_reflective_conversation.md)
+Solution Space ---(build--->) Problem Space  
+         \                     /  
+         [Reflective Conversation](the_reflective_conversation.md)  
