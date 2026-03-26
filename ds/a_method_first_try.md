@@ -48,7 +48,12 @@ Additionals:
 - Rely on the concept of 'abstract base classes' builiding up 'the Real' in Coplien fashion, /Sundblad's 'Capability, Information Services.
 - Use concept of Navigation instead of Structure, Analyse, put in Order
   - Use all the 'Edgy'/'Enterprise Scan' or set of other ontologies, frameworks etc. as 'raster' to overlay Problem Space or 'Avbildning'. To help find out where we are, and take out a new direction. Rather then putting effort into structuring and ordering things, which will to most part not be used anyway. The simplest one is 'Feasability', 'Viability', 'Usability', 'Desireability'.
-  - Use Judgement continously, when Revisit Problem and Log. This is the main driver in the Learning loop. The three possible directions after Judgement are 'Persevere', 'Pivot' or 'Continue'
+  - Use Judgement continously, when Revisit Problem and Log. This is the main driver in the Learning loop. The three possible directions after Judgement are 'Persevere', 'Pivot' or 'Continue'  
+
+<_>  
+Anti Patterns:
+- PM that doesnt give the design work degrees of freedom. E.g. changes outside the design work, not based on Problem and Log revisit and Judgement.
+- The conversation does not work. E.g. decisions made outside the conversation ongoing with team, users, stakeholders.  
    
 
 [Back](../README.md)
