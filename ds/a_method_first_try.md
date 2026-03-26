@@ -33,4 +33,4 @@ Additionals:
 - Use the Indigo model when doing 'the Learning Loop'. See 'the Real' as both 'Design', 'How to build' and 'Product' parts and work on the parts most needed.
 - Use the idea of 'the Gravity Well' i.e. start on 'the Real' until stuck, and need to revisit Problem Space.  
 
-[Back](../i.design.log.md)
+[Back](../README.md)
