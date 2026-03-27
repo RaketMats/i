@@ -15,7 +15,7 @@
   -  A first workshop, present 'Avbildning' and 'the Real'. Preferrably in increments, first PM, Sponsor and Team. Then test on Users. Make sure a conversation is established, via mail, chat, agenda to workshop/MoM's, go through Problem space and that this is the first take at Solution. Then show 'the Real' in its first raw cut. Learn by writing down in Log and revisit through meetings, within Team, reflect by yourself as ArkDes-role.
     - The continous Converation in Reflective fashion is now established and can also be viewed as 'Product Stream of Conciousness'/'Team Train of Thought'
   - A first learning is done. Note that putting too much effort in establishing 'Hypothesis' and 'Experiment' really doesnt work, dont be too formal on this. Instead, rely on writning down in Problem space and Log and continously revisit, let important things rise to the surface, analyse then, do not try to structure or organize. Rely on conversation to be open, transparent and clear. Use 'Judgement' to guide in work. Learning is hard, revisit need to be done continously - then learning will happen.
-  - Besides Edgy/Enterpreise Scan and ABCDesEnt as pattern, use other frameworks/methods/ontologies to frame, to put a grid over the problem space, for guidance and some order.  
+  - Besides Edgy/Enterpreise Scan and ABCDesEnt as pattern, use other frameworks/methods/ontologies to frame, to put a grid over the problem space, for guidance and some order.   
   <_>  
   So what have we got now:
   - We have established the Conversation. We have described 'the Assignment'/'Pitch' in form of a first 'Avbilidning' and 'the Real'. We have described learning in Log and we have a first set of entries in Problem Space
