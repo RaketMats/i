@@ -1,5 +1,5 @@
 # Problems and their solution in the realm of digital products design
-Actually it should not be that difficult.  
+Actually it should not be that difficult...  
 There is a problem and we find a solution for it.  
 But.  
 What is the problem? Do we understand it enough to find a solution. Do we solve the problem right? Do we solve the right problem?  
