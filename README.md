@@ -11,7 +11,7 @@ The table below is orthogonal, i.e. you take any direction through the set of di
 | A           | B           |
 | ----------- | ----------- |
 | [Start here](ds/problems_and_their_solutions.md)| [Or here](ds/a_method_first_try.md)|
-| Paragraph   | Text        |
+| ![Analogs](images/analog_helpers.jpg)| Text        |
 
 
 # Brief
