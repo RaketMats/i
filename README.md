@@ -4,7 +4,9 @@
 We aim to find practical way of workings, methods and tools to address digital product development, which is surprisingly difficult. With development we mean the design, architecture part of development work, not primarily quality work such as testing and production even if these naturally are important parts. Since we assume that this is a complex, wicked type of problem it must be done through exploration, discovery and learning. 
 This is not primarily a collection of tools. We assume that the way to develop these tools need to be addressed the same as for digital product development, so it is first and foremost an engine of exploration, discovery, learning and learning how we learn, double loop learning. ’Design Things’(A Telier 2011) describes more about this. 
 Every design situation is unique, specific for organisation, domain, team, scale and what is produced is not ready made but a set of generic patterns and a conceptual engine making them work in the specific situation.  
-We also assume that the vantage point to address this is as a shared learning from experience by you who want to use and thus we as a collective of practitioners become more proficient in a culture of learning.  
+We also assume that the vantage point to address this is as a shared learning from experience by you who want to use and thus we as a collective of practitioners become more proficient in a culture of learning.
+
+[test html](test2.html)
 
 # The Descriptions and Tools
 The table below is orthogonal, i.e. you take any direction through the set of different methods and tools.
