@@ -1,19 +1,23 @@
 ![A nice space](images/sas_copenhagen.jpg)
 
 # About
-We aim to find practical way of workings, methods and tools to address digital product development, which is surprisingly difficult. With development we mean the design, architecture part of development work, not primarily quality work such as testing and production even if these naturally are important parts. Since we assume that this is a complex, wicked type of problem it must be done through exploration, discovery and learning. 
-This is not primarily a collection of tools. We assume that the way to develop these tools need to be addressed the same as for digital product development, so it is first and foremost an engine of exploration, discovery, learning and learning how we learn, double loop learning. ’Design Things’(A Telier 2011) describes more about this. 
+We aim to find practical way of workings, methods and tools to address digital product development, which is surprisingly difficult. With development we mean architecture, design way of working, system development including quality aspects with traceability, verification and validation. Practial work to get real products that are usable and commercially viable.  
+Since we assume that this is a complex, wicked type of problem it must be done through exploration, discovery and learning. 
+This is not primarily a collection of tools. We assume that the way to develop these tools need to be addressed the same as for digital product development, so it is first and foremost an engine of exploration, discovery, learning and learning how we learn, double loop learning. ’Design Things’(A Telier 2011) describes more about this.  
 Every design situation is unique, specific for organisation, domain, team, scale and what is produced is not ready made but a set of generic patterns and a conceptual engine making them work in the specific situation.  
-We also assume that the vantage point to address this is as a shared learning from experience by you who want to use and thus we as a collective of practitioners become more proficient in a culture of learning.
+We also assume that the vantage point to address this is as a shared learning from experience by you who want to use and thus we as a collecti|ve of practitioners become more proficient in a culture of learning.  
+We do not invent that much new things, instead we aim to find what has already been described better by others, but which often may be hard to get to work in practical situations, so we aim to show how we have found these to work practically and describe them, provide ways of working or tools.  
 
-[test html](test2.html)
 
-# The Descriptions and Tools
+# How digital product development works, what need to be done
 The table below is orthogonal, i.e. you take any direction through the set of different methods and tools.
-| A           | B           |
-| ----------- | ----------- |
-| [Start here](ds/problems_and_their_solutions.md)| [Or here](ds/a_method_first_try.md)|
-| ![Analogs](images/analog_helpers.jpg)| Text        |
+| Insights and hypothesises                       | Ideas to how                                         |
+| ------------------------------------------------|----------------------------------------------------- |
+| A design team starts working but soon discovers | 'Design Process och Metod' both describes the design |
+| that the project way of driving work does not   | situation and different methods and tools.           |
+| really work. It is important that the design    | 'Design Things' is even better, which also separates |
+| situation is separated from project work.       | the physical work and shows how to establish a work  |
+| ![Analogs](images/analog_helpers.jpg)| Text     | area for the design team.                            |
 
 
 # Brief
