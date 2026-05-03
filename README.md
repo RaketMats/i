@@ -13,8 +13,9 @@ We do not invent that much new things, instead we aim to find what has already b
 The table below is orthogonal, i.e. you take any direction through the set of different methods and tools.
 | Insights and hypothesises                       | Ideas to how                                         |
 | ------------------------------------------------|----------------------------------------------------- |
-| A design team starts working but soon discovers | 'Design Process och Metod' both describes the design |
-| that the project way of driving work does not   | situation and different methods and tools.           |
+| A design team starts working but soon      <br> | 'Design Process och Metod' both describes the design |
+| discovers that the project way of driving <br>  | situation and different methods and tools.           |
+| work does not really work <br>                  |                                                      |
 | really work. It is important that the design    | 'Design Things' is even better, which also separates |
 | situation is separated from project work.       | the physical work and shows how to establish a work  |
 | ![Analogs](images/analog_helpers.jpg)| Text     | area for the design team.                            |
