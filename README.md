@@ -17,6 +17,7 @@ A design team starts working but soon they discover that the project way of driv
 
 ## There is a need for a rich language
 When discussing within the team and when discussing with users, languge need to be established. Edgy is such a language.  
+Alt. 'Do you also experience difficulties in discussing with stakeholders and users?'  
 ## How this can be done
 Edgy is not easy to master ,it is complex. See 'Enterprise Wheel' at Housilama
   
