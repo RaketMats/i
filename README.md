@@ -8,17 +8,29 @@ Every design situation is unique, specific for organisation, domain, team, scale
 We also assume that the vantage point to address this is as a shared learning from experience by you who want to use and thus we as a collecti|ve of practitioners become more proficient in a culture of learning.  
 We do not invent that much new things, instead we aim to find what has already been described better by others, but which often may be hard to get to work in practical situations, so we aim to show how we have found these to work practically and describe them, provide ways of working or tools.  
 
+ 
+# Digital product development work need to be separated from design situation
+## The story behing this, insights and hypothesis
+A design team starts working but soon they discover that the project way of driving things does not really work with how things need to be done. Design work need to be separated from project work, there is a need to establish a design situation. 
+## How this can be done
+'Design Process och Metod' both describes the design situation and different methods and tools. 'Design Things' is even better, which also separates the physical work and shows how to establish a work area for the design team.  
 
-# How digital product development works, what need to be done
-The table below is orthogonal, i.e. you take any direction through the set of different methods and tools.
-| Insights and hypothesises                       | Ideas to how                                         |
-| ------------------------------------------------|----------------------------------------------------- |
-| A design team starts working but soon      <br> | 'Design Process och Metod' both describes the design |
-| discovers that the project way of driving <br>  | situation and different methods and tools.           |
-| work does not really work <br>                  |                                                      |
-| really work. It is important that the design    | 'Design Things' is even better, which also separates |
-| situation is separated from project work.       | the physical work and shows how to establish a work  |
-| ![Analogs](images/analog_helpers.jpg)| Text     | area for the design team.                            |
+## There is a need for a rich language
+When discussing within the team and when discussing with users, languge need to be established. Edgy is such a language.  
+## How this can be done
+Edgy is not easy to master ,it is complex. See 'Enterprise Wheel' at Housilama
+  
+# A template
+## There is a need for a template
+The team can work more easily with a template to fill in.
+## How
+ABCDesEnt pattern.
+
+# Users must be involved
+## etc
+etc.
+## How
+The book 'Cool-metoden' describes this as to many other books. But what makes this intereseting is the basic loop and concepts(understanding users reality and buidling a mental amodel of it) and that it builds upon a smidig way to build applications(very similar to Copliens work and our own template ABCDEsEnt). 
 
 
 # Brief
