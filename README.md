@@ -8,6 +8,19 @@ Every design situation is unique, specific for organisation, domain, team, scale
 We also assume that the vantage point to address this is as a shared learning from experience by you who want to use and thus we as a collecti|ve of practitioners become more proficient in a culture of learning.  
 We do not invent that much new things, instead we aim to find what has already been described better by others, but which often may be hard to get to work in practical situations, so we aim to show how we have found these to work practically and describe them, provide ways of working or tools.  
 
+<table>
+<tr>
+<th>First</th>
+<th>Second</th>
+</tr>
+<tr>
+<td>
+Abc<br>
+Def
+</td>
+<td>B</td>
+</tr>
+</table>
  
 # Digital product development work need to be separated from design situation
 ## The story behing this, insights and hypothesis
