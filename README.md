@@ -10,18 +10,41 @@ We do not invent that much new things, instead we aim to find what has already b
 
 <table>
 <tr>
-<th>Storylin</th>
+<th>Storyline</th>
 <th>Annotations</th>
 </tr>
 <tr>
 <td>
-Digital product development work need to be separated from design situation<br>
-The story behing this, insights and hypothesis
-A design team starts working but soon they discover that the project way of driving things does not really work with how things need to be done. Design work need to be separated from project work, there is a need to establish a design situation. 
+Digital product development project work need to be separated from digital product development design work<br>
+A design team starts working but soon they discover that the project way of driving things does not really work with how things need to be done. They will discover that project work is linear but design work tends to go in different directions, is not predictable as a project manager often requires. Design work need to be separated from project work, there is a need to establish a design situation. 
 </td>
 <td>
 How this can be done<br>
-'Design Process och Metod' both describes the design situation and different methods and tools. 'Design Things' is even better, which also separates the physical work and shows how to establish a work area for the design team.  
+'Design Process och Metod' both describes the design situation and different methods and tools. 'Design Things' is even better, which also separates the physical work and shows how to establish a work area for the design team.<br>
+Design work is complex and problems are wicked, thus requires probe sense, pure analysis does not work.   
+</td>
+</tr>
+<tr>
+<td>
+<b>The need for problem definitions</b><br>
+When the team start working, they soon realise that the problem is not really well defined. And that there are actually several, multiple different problems that all needs to be understood and defined. The team understands that thare are some main, different problems, such as different needs and solutions to those needs. This is the basic division. But they soon realise that there are several smaller problems related, starting with trying to understand what the problem really is. They realise that one problem is whom to talk to, users, stakeholders, other teams and so on. And another problem, how to talk, form, once or recurring, overcome distance, text, models, face to face.    
+</td>
+<td>
+How this can be done<br>
+The most important is to realise the fact that there are several problems and that they all need their own conversation.<br>
+How: The concept of a 'digital design prompt copy', see 'tbd link'.
+</td>
+</tr>
+<tr>
+<td>
+<b>The need for different discussions</b><br>
+The team will then realise that the problems requires ongoing discussions or conversations. That work is really about having these conversations. With users, stakeholders, the team, oneselves. There are always different discussions ongoing, whether known or unknown. Purpose here is to identify the need for different discussions so that they become known and can thus be managed.<br>
+There are for example often one discussion, or conversation, originating in a about 'What are the problems, what are the needs' and then another 'How can we define the problems' so that we dont mix with 'What are the solutions'.<br>
+An important aspect of conversations, which the team might not realise at first, is that conversations have different durations. Some conversatoins, the team realise, is just solved with a short conversatoin, using pen and paper or a whiteboard. Others, will span weeks or months, and the form for the conversation must adapt, for example record the conversations in text documents and use digital models instead of just a whiteboard. Or an aspect might be the number of people involved, if just two the conversations can be held simple but if many peoples involved and maybe on different geographical locations requires other means.
+</td>
+<td>
+How this can be done<br>
+Tbd<br>
 </td>
 </tr>
 <tr>
@@ -41,18 +64,6 @@ Edgy is not easy to master ,it is complex. See 'Enterprise Wheel' at Housilama
 There is a need for a template<br>
 When discussing within the team and when discussing with users, languge need to be established. Edgy is such a language.  
 Alt. 'Do you also experience difficulties in discussing with stakeholders and users?'  
-</td>
-<td>
-How this can be done<br>
-The team can work more easily with a template to fill in.<br>
-How: ABCDesEnt pattern.
-</td>
-</tr>
-<tr>
-<td>
-<b>The need for different discussions</b><br>
-There are always different discussions ongoing, whether known or unknown. Purpose here is to identify the need for different discussions so that they become known and can thus be managed.<br>
-There are for example often one discussion, or conversation, originating in a about 'What are the problems, what are the needs' and then another 'How can we define the problems' so that we dont mix with 'What are the solutions'.   
 </td>
 <td>
 How this can be done<br>
@@ -111,9 +122,9 @@ Linked In, connect and send message to www.linkedin.com/in/matsandreasen/
 Adams, J(2019): __Conceptual Blockbusting__, Basic Books; 5th edition  
 Aurelius(2025): __aureliuslab.com__, Aureliuslab LLC  
 Brooks(1995) __The Mythical Man Month__, Addison-Wesley; 2nd edition  
-Brooks(2010) __The Design of Design__, Addison Wesley
+Brooks(2010) __The Design of Design__, Addison Wesley  
 Cleese(2022) __Creativity, a short and cheerful guide__, Penguin  
-Coplien J, Björnvig G(2010): __Lean Architecture__, Wiley
+Coplien J, Björnvig G(2010): __Lean Architecture__, Wiley  
 Cross(2011): __Design Thinking__, Bloomsbury Academic  
 Gabriel P(1986): __So__, Charisma Records  
 Guenther M, Goebl W(2023): __Edgy__, http://enterprise.design  
@@ -132,7 +143,7 @@ Telier A(2011): __Design Things__, MIT Press
 Österlin K(2023): __Design I fokus__, Skissbox.se, 5th edition  
 Wikberg Å, Törlind P, Ericsson Å(2021): __Design, Process och Metod__, Studentlitteratur  
 Zachman och grunden för arkitekturramverk  
-Jacobson I et al(1999): __The Unified Software Development Process__, Addison-Wesley
+Jacobson I et al(1999): __The Unified Software Development Process__, Addison-Wesley  
 
 # License
 Content is licensed under CC-BY-SA-4.0  
