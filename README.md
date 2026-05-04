@@ -10,35 +10,59 @@ We do not invent that much new things, instead we aim to find what has already b
 
 <table>
 <tr>
-<th>First</th>
-<th>Second</th>
+<th>Storylin</th>
+<th>Annotations</th>
 </tr>
 <tr>
 <td>
-Abc<br>
-Def
+Digital product development work need to be separated from design situation<br>
+The story behing this, insights and hypothesis
+A design team starts working but soon they discover that the project way of driving things does not really work with how things need to be done. Design work need to be separated from project work, there is a need to establish a design situation. 
 </td>
-<td>B</td>
+<td>
+How this can be done<br>
+'Design Process och Metod' both describes the design situation and different methods and tools. 'Design Things' is even better, which also separates the physical work and shows how to establish a work area for the design team.  
+</td>
+</tr>
+<tr>
+<td>
+<b>There is a need for a rich language</b><br>
+When discussing within the team and when discussing with users, languge need to be established. Edgy is such a language.  
+Alt. 'Do you also experience difficulties in discussing with stakeholders and users?'  
+</td>
+<td>
+How this can be done<br>
+Edgy is not easy to master ,it is complex. See 'Enterprise Wheel' at Housilama
+</td>
+</tr>
+<tr>
+<td>
+<b>A template</b><br>
+There is a need for a template<br>
+When discussing within the team and when discussing with users, languge need to be established. Edgy is such a language.  
+Alt. 'Do you also experience difficulties in discussing with stakeholders and users?'  
+</td>
+<td>
+How this can be done<br>
+The team can work more easily with a template to fill in.<br>
+How: ABCDesEnt pattern.
+</td>
+</tr>
+<tr>
+<td>
+<b>The need for different discussions</b><br>
+There are always different discussions ongoing, whether known or unknown. Purpose here is to identify the need for different discussions so that they become known and can thus be managed.<br>
+There are for example often one discussion, or conversation, originating in a about 'What are the problems, what are the needs' and then another 'How can we define the problems' so that we dont mix with 'What are the solutions'.   
+</td>
+<td>
+How this can be done<br>
+The team can work more easily with a template to fill in.<br>
+How: ABCDesEnt pattern.
+</td>
 </tr>
 </table>
  
-# Digital product development work need to be separated from design situation
-## The story behing this, insights and hypothesis
-A design team starts working but soon they discover that the project way of driving things does not really work with how things need to be done. Design work need to be separated from project work, there is a need to establish a design situation. 
-## How this can be done
-'Design Process och Metod' both describes the design situation and different methods and tools. 'Design Things' is even better, which also separates the physical work and shows how to establish a work area for the design team.  
-
-## There is a need for a rich language
-When discussing within the team and when discussing with users, languge need to be established. Edgy is such a language.  
-Alt. 'Do you also experience difficulties in discussing with stakeholders and users?'  
-## How this can be done
-Edgy is not easy to master ,it is complex. See 'Enterprise Wheel' at Housilama
   
-# A template
-## There is a need for a template
-The team can work more easily with a template to fill in.
-## How
-ABCDesEnt pattern.
 
 # Users must be involved
 ## etc
