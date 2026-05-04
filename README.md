@@ -60,15 +60,17 @@ The team can work more easily with a template to fill in.<br>
 How: ABCDesEnt pattern.
 </td>
 </tr>
+<tr>
+<td>
+<b>Users must be involved</b><br>
+The scenario here is that we dont know what the users need really are, before observing them using the product. (Brooks 2010)
+</td>
+<td>
+The book 'Cool-metoden' describes this as to many other books. But what makes this intereseting is the basic loop and concepts(understanding users reality and buidling a mental amodel of it) and that it builds upon a smidig way to build applications(very similar to Copliens work and our own template ABCDEsEnt).
+</td>
+</tr>
 </table>
- 
-  
 
-# Users must be involved
-## etc
-etc.
-## How
-The book 'Cool-metoden' describes this as to many other books. But what makes this intereseting is the basic loop and concepts(understanding users reality and buidling a mental amodel of it) and that it builds upon a smidig way to build applications(very similar to Copliens work and our own template ABCDEsEnt). 
 
 
 # Brief
