@@ -55,7 +55,8 @@ Alt. 'Do you also experience difficulties in discussing with stakeholders and us
 </td>
 <td>
 How this can be done<br>
-Edgy is not easy to master ,it is complex. See 'Enterprise Wheel' at Housilama
+Edgy is not easy to master ,it is complex. See 'Enterprise Wheel' at Housilama<br>
+<img src="images/enterprise_wheel.jpg" alt="Enterprise wheel" width="100" height="100">
 </td>
 </tr>
 <tr>
