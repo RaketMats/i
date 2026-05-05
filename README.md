@@ -56,7 +56,7 @@ Alt. 'Do you also experience difficulties in discussing with stakeholders and us
 <td>
 How this can be done<br>
 Edgy is not easy to master ,it is complex. See 'Enterprise Wheel' at Housilama<br>
-<img src="images/enterprise_wheel.jpg" alt="Enterprise wheel" width="100" height="100">
+<a href="https://hosiaisluoma.fi/design/enterprise-wheel/"><img src="images/enterprise_wheel.jpg" alt="Enterprise wheel" style="width:120px;height:120px;"></a>
 </td>
 </tr>
 <tr>
