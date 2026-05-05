@@ -60,9 +60,8 @@ Edgy is not easy to master ,it is complex. See 'Enterprise Wheel' at Housilama
 </tr>
 <tr>
 <td>
-<b>A template</b><br>
-There is a need for a template<br>
-When discussing within the team and when discussing with users, languge need to be established. Edgy is such a language.  
+<b>Patterns</b><br>
+Problems and solutions are very seldom unique. Design and architectural patterns is a way to re-use what others have seen working. These patterns can have different form. They can describe a solution, or a way of working or how to form a conversation with users. 
 Alt. 'Do you also experience difficulties in discussing with stakeholders and users?'  
 </td>
 <td>
@@ -74,7 +73,9 @@ How: ABCDesEnt pattern.
 <tr>
 <td>
 <b>Users must be involved</b><br>
-The scenario here is that we dont know what the users need really are, before observing them using the product. (Brooks 2010)
+The scenario here is that we dont know what the users need really are, before observing them using the product. (Brooks 2010)<br>
+The scenario is also that of user mental model. What the user expects to happen. A very basic illustration is the insight that a digital product will be built with object models and data structures providing the functionality that users require. But these are totally incomprehensible for the users and must naturally be translated into user interfaces that are meaningful to the user. The team will however realise that this is not a simple task because there are several levels, several different problems to present the product in a way that match what the user expect. One problem is that there are often different groups of users. Another is skill level or that different users view their reality and thus how the product blends into their physical and digital reality.<br>
+Note that users exist in a reality that consists of a situation, like office, at home, at the grocery store. Then there is a virtual, digital reality that kind of exists in parallell. These two realities form the full reality or world for the user. Between them there are channels, touchpoints, physical devices such as web browser and mobile phones. 
 </td>
 <td>
 The book 'Cool-metoden' describes this as to many other books. But what makes this intereseting is the basic loop and concepts(understanding users reality and buidling a mental amodel of it) and that it builds upon a smidig way to build applications(very similar to Copliens work and our own template ABCDEsEnt).
