@@ -8,84 +8,6 @@ Every design situation is unique, specific for organisation, domain, team, scale
 We also assume that the vantage point to address this is as a shared learning from experience by you who want to use and thus we as a collecti|ve of practitioners become more proficient in a culture of learning.  
 We do not invent that much new things, instead we aim to find what has already been described better by others, but which often may be hard to get to work in practical situations, so we aim to show how we have found these to work practically and describe them, provide ways of working or tools.  
 
-<table>
-<tr>
-<th>Storyline</th>
-<th>Annotations</th>
-</tr>
-<tr>
-<td>
-Digital product development project work need to be separated from digital product development design work<br>
-A design team starts working but soon they discover that the project way of driving things does not really work with how things need to be done. They will discover that project work is linear but design work tends to go in different directions, is not predictable as a project manager often requires. Design work need to be separated from project work, there is a need to establish a design situation. 
-</td>
-<td>
-How this can be done<br>
-'Design Process och Metod' both describes the design situation and different methods and tools. 'Design Things' is even better, which also separates the physical work and shows how to establish a work area for the design team.<br>
-Design work is complex and problems are wicked, thus requires probe sense, pure analysis does not work.   
-</td>
-</tr>
-<tr>
-<td>
-<b>The need for problem definitions</b><br>
-When the team start working, they soon realise that the problem is not really well defined. And that there are actually several, multiple different problems that all needs to be understood and defined. The team understands that thare are some main, different problems, such as different needs and solutions to those needs. This is the basic division. But they soon realise that there are several smaller problems related, starting with trying to understand what the problem really is. They realise that one problem is whom to talk to, users, stakeholders, other teams and so on. And another problem, how to talk, form, once or recurring, overcome distance, text, models, face to face.    
-</td>
-<td>
-How this can be done<br>
-The most important is to realise the fact that there are several problems and that they all need their own conversation.<br>
-How: The concept of a 'digital design prompt copy', see 'tbd link'.
-</td>
-</tr>
-<tr>
-<td>
-<b>The need for different discussions</b><br>
-The team will then realise that the problems requires ongoing discussions or conversations. That work is really about having these conversations. With users, stakeholders, the team, oneselves. There are always different discussions ongoing, whether known or unknown. Purpose here is to identify the need for different discussions so that they become known and can thus be managed.<br>
-There are for example often one discussion, or conversation, originating in a about 'What are the problems, what are the needs' and then another 'How can we define the problems' so that we dont mix with 'What are the solutions'.<br>
-An important aspect of conversations, which the team might not realise at first, is that conversations have different durations. Some conversatoins, the team realise, is just solved with a short conversatoin, using pen and paper or a whiteboard. Others, will span weeks or months, and the form for the conversation must adapt, for example record the conversations in text documents and use digital models instead of just a whiteboard. Or an aspect might be the number of people involved, if just two the conversations can be held simple but if many peoples involved and maybe on different geographical locations requires other means.
-</td>
-<td>
-How this can be done<br>
-Tbd<br>
-</td>
-</tr>
-<tr>
-<td>
-<b>There is a need for a rich language</b><br>
-When discussing within the team and when discussing with users, languge need to be established. Edgy is such a language.  
-Alt. 'Do you also experience difficulties in discussing with stakeholders and users?'  
-</td>
-<td>
-How this can be done<br>
-Edgy is not easy to master ,it is complex. See 'Enterprise Wheel' at Housilama<br>
-<a href="https://hosiaisluoma.fi/design/enterprise-wheel/"><img src="images/enterprise_wheel.jpg" alt="Enterprise wheel" style="width:120px;height:120px;"></a>
-</td>
-</tr>
-<tr>
-<td>
-<b>Patterns</b><br>
-Problems and solutions are very seldom unique. Design and architectural patterns is a way to re-use what others have seen working. These patterns can have different form. They can describe a solution, or a way of working or how to form a conversation with users. 
-Alt. 'Do you also experience difficulties in discussing with stakeholders and users?'  
-</td>
-<td>
-How this can be done<br>
-The team can work more easily with a template to fill in.<br>
-How: ABCDesEnt pattern.
-</td>
-</tr>
-<tr>
-<td>
-<b>Users must be involved</b><br>
-The scenario here is that we dont know what the users need really are, before observing them using the product. (Brooks 2010)<br>
-The scenario is also that of user mental model. What the user expects to happen. A very basic illustration is the insight that a digital product will be built with object models and data structures providing the functionality that users require. But these are totally incomprehensible for the users and must naturally be translated into user interfaces that are meaningful to the user. The team will however realise that this is not a simple task because there are several levels, several different problems to present the product in a way that match what the user expect. One problem is that there are often different groups of users. Another is skill level or that different users view their reality and thus how the product blends into their physical and digital reality.<br>
-Note that users exist in a reality that consists of a situation, like office, at home, at the grocery store. Then there is a virtual, digital reality that kind of exists in parallell. These two realities form the full reality or world for the user. Between them there are channels, touchpoints, physical devices such as web browser and mobile phones. 
-</td>
-<td>
-The book 'Cool-metoden' describes this as to many other books. But what makes this intereseting is the basic loop and concepts(understanding users reality and buidling a mental amodel of it) and that it builds upon a smidig way to build applications(very similar to Copliens work and our own template ABCDEsEnt).
-</td>
-</tr>
-</table>
-
-
-
 # Brief
 There are no methodology or any tool that solves digital product development fully. It is always instead a collection of different ways, adapted to the situation and often what succeeds, and maybe gets published in a book or as a product, worked in a specific situation, hard to replicate. Instead we believe that digital product development need to be addressed through start with establishing how to learn, about what to design but also how to design, the specific product and for the specific situation.  
 We believe that design is about helping users discover what they really want and need. That this can be done, in the end, only by learning from users using the product (Brooks 2010) and that design is not done until the product is used (Sayers 2004).  
@@ -95,7 +17,6 @@ We also beleive that competencies, Architecture, UX/Service Design, Agile and Sy
 We also believe that the design situation shall be clearly separated from the project that runs it. A good pattern for this is probably (Wikberg et al 2021).  
 We also believe that people and how they work is equally important as all other parts in the design situation, what we address as 'PeopleWorks'.  
 
-
 # Purpose
 The purpose is to establish a design situation that makes it possible to discover and explore what architecture, enterprise design, software engineering and agile methods in the broad sense can help out with within digital product development.  
 The purpose is to build practical tools. For this, a workshop where these tools can be built is needed and that is what we try to accomplish here. 
@@ -103,19 +24,6 @@ We aim to be a collective of practitioners, thus some concepts and products adre
 We also aim to be a culture of learning. Concepts presented here might therefore be research in varying states of sense making but useful for others who want to participate or explore in there own situation. 
 We are inspired by, 'Enterprise Design',Guenther M, Goebl W(2023), since this is the most broad concept so far regarding how digital products are developed. The Agile movement, Design movement including Product Design and the digital material knowledge in the form of Software Engineering. All in their broadest concept of mindset, methods, tools - building skills. 
 We are also inspired by 'Lean Startup' and 'The Real Startup Book'(Kromatics 20nn) and the concepts about validated learning form of insights, hypothesis and experiments.
-
-
-# So how does it work
-We keep these statements and brief as a problem statement, guiding the work.  
-The file 'design.log.md' is a log of inititiatives, current prioritisation and activities.
-Work done is to be in the form of product discovery.
-Then to publish results from this discovery, for any one to use.
-
-# Organisation of this repo
-- Readme, this file
-- design.log - Backlog and progress
-- Descriptions and Tools which is the main part
-- Other catalogues are for different administrative purposes.
 
 # Contact information
 Linked In, connect and send message to www.linkedin.com/in/matsandreasen/  
@@ -150,7 +58,3 @@ Jacobson I et al(1999): __The Unified Software Development Process__, Addison-We
 # License
 Content is licensed under CC-BY-SA-4.0  
 Software (future) license is tbd.
-
-## About name of this repo  
-About repo name, it can be an acronym for 'Some UNiversal kNowledge System Learning In General', but it is kind of a stupid name. Maybe just 'dDPD/dAD' meaning 'Digital Product Development rate of change over Architecture & Design', i.e. the mathematical concept of derivatives. Or 'dpd' for 'digital product development'. Or 'dipol' for 'digital product development learning'(yes, the acronym is wrong but it sounds better)  
-About the mix of english and swedish. The work here primarily aimed for a Swedish audience, but sometimes it is easier to think in English, terminology, concepts et al.  
