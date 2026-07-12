@@ -1,0 +1,4 @@
+# A Basic Way of Working
+- 'Understand User Reality'. Then 'Capture into an image that resonates with Users mental model'. Do this via 'A more graphical view, storyboardning, storytelling, something that is understandable for end Users'. Then 'Use the Graphical Model to start capturing objects with information, how it flows and what is done and by whom'. 
+- Use 'ABCDEsEnt'-pattern as a bridge towards the design phase. In this phase, the people building the solution are introduced into the work. Think in abstract base classes to become even closer to realisation.
+- Using 'the Flipped Perspective'. Minimise planning and instead, reflect continously and judge/crit and then pivot or persevere.
